@@ -1,0 +1,15 @@
+{
+    "mongoUrl": "mongodb://localhost:27017/gtfs",
+    "csvOptions": {
+        "skip_lines_with_error": true
+    },
+    "agencies": [
+        {
+            "agency_key": "NYCSubway",
+            "url": "http://web.mta.info/developers/data/nyct/subway/google_transit.zip",
+            "exclude": [
+               
+            ]
+        }
+    ]
+}
