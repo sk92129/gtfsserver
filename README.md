@@ -17,4 +17,4 @@ http://localhost:3000/stoptimes?agency=NYCSubway&stopid=Q05S
 # Mapbox Sample screen shot built with SwiftUI (Swift5 on iOS 14)
 Sample MapBox SwiftUI app Using the Stop look up :
 
-![MapBoxwithSwiftUI](/images/stopsnearNYU.png "With iOS 14 using SwiftUI ") 
+![MapBoxwithSwiftUI](stopsnearNYU.png "With iOS 14 using SwiftUI ") 
