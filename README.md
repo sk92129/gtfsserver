@@ -15,3 +15,6 @@ http://localhost:3000/stopsbycircle?latitude=40.756122&longitude=-73.985580&radi
 
 http://localhost:3000/stoptimes?agency=NYCSubway&stopid=Q05S
 
+Sample MapBox SwiftUI app Using the Stop look up :
+
+![MapBox with SwiftUI](/images/stopsnearNYU.png) Format: ![Alt Text](url)
